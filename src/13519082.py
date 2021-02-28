@@ -58,6 +58,16 @@ def printHasil(arrayakhir):
         print(end='\n')    
 
 print("\n")
+print("""
+██╗     ██╗   ██╗██╗     ██╗   ██╗███████╗
+██║     ██║   ██║██║     ██║   ██║██╔════╝
+██║     ██║   ██║██║     ██║   ██║███████╗
+██║     ██║   ██║██║     ██║   ██║╚════██║
+███████╗╚██████╔╝███████╗╚██████╔╝███████║
+╚══════╝ ╚═════╝ ╚══════╝ ╚═════╝ ╚══════╝
+ 
+ T E N T U K A N  M A T K U L  A N D A !
+""")
 
 #baca filenya
 bacanamafile = input("Masukkan nama file (cukup tuliskan nama file tanpa extension): ")
@@ -72,3 +82,5 @@ prosesPemilihan(len(arraymatkulawal))
 
 #ngeprintnya
 printHasil(arrakhir)
+
+print("\n")

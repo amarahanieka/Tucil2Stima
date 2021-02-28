@@ -1,8 +1,7 @@
 # Penyusunan Rencana Kuliah dengan *Topological Sort* (Penerapan *Decrease and Conquer*)
 
 > Program sederhana ini merupakan aplikasi dari materi *Decrease and Conquer* yang telah dipelajari di kuliah IF2211 Strategi Algoritma. Program ini dapat menyusun
-rencana pengambilan kuliah dan penyusunan
-rencana kuliah tersebut diimplementasikan dengan menggunakan pendekatan *Topological Sorting*. 
+rencana pengambilan kuliah dan penyusunan rencana kuliah tersebut diimplementasikan dengan menggunakan pendekatan *Topological Sorting*. Mata kuliah-mata kuliah dianggap sebagai *node* dari DAG (*directed acyclic graph*) dan diurutkan menggunakan *topological sort*.
 
 ## Pengaturan dan instalasi
 Pastikan python3 (versi yang direkomendasikan) sudah terinstall di PC anda. Pembuat menggunakan Python versi 3.7.4.
