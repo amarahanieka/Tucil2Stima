@@ -38,8 +38,6 @@ def prosesPemilihan(banyakmatkulawal):
             if len(daftarmatkulawal[i]) == 1:
                 choose_temp = daftarmatkulawal[i][0]
                 list_temp.append(choose_temp)
-                #for j in range(len(daftarmatkulawal)):
-                #hapus(j, choose_temp)
                 z += 1
         arrakhir.append(list_temp)
         for j in range(len(list_temp)):
